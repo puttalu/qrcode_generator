@@ -4,6 +4,7 @@ import segno
 import tkinter as tkinter
 from tkinter import filedialog
 import os
+import qrcode as qr
 
 window = tkinter.Tk()
 txt_to_encode = tkinter.StringVar()
